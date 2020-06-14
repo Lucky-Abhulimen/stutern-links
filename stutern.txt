@@ -1,3 +1,6 @@
+TRELLO LINK
+https://trello.com/b/wxIkh0Aw/software-development-course-submissions
+
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps  ...css
 
 PRE-COURSEW LINK
@@ -10,3 +13,15 @@ https://docs.google.com/presentation/d/1DeV4Uhj7L3Bwl-FJxj0ZwO56KKvkAKar3b8U83MG
 
 GIT & GITHUB:
 https://docs.google.com/presentation/d/1JRWMuKgT5xAdjxaCxxdE9ecaEgLTNHY6ujTXci18PNk/edit#slide=id.p
+
+GIT RESET
+https://www.atlassian.com/git/tutorials/undoing-changes/git-res
+et#:~:text=Summary,Index%2C%20
+and%20the%20Working%20Directory.
+
+HTML FUNDAMENTALS
+https://docs.google.com/presentation/d/1pRBV1INmpGO2XqQXItI_8sHE_gdSbi_
+c4_jjNJv44lU/edit#slide=id.g5b92269c3aafc8db_64
+
+CSS
+ https://docs.google.com/presentation/d/1dFC_jd06dggR-dVd4pPCSV23kWMJDx8EcUTgQVfdoAE
