@@ -1,3 +1,9 @@
+LIVE SESSION
+https://www.youtube.com/playlist?list=PLL9QJYLKMy_czh8_IYmKTcL3bP1Lk_qc_
+
+TODO YOUTUBE
+https://www.youtube.com/watch?v=Z43SXaDPo2s
+
 TRELLO LINK
 https://trello.com/b/wxIkh0Aw/software-development-course-submissions
 
@@ -17,6 +23,7 @@ https://docs.google.com/presentation/d/1JRWMuKgT5xAdjxaCxxdE9ecaEgLTNHY6ujTXci18
 GIT RESET
 https://www.atlassian.com/git/tutorials/undoing-changes/git-res
 et#:~:text=Summary,Index%2C%20
+
 and%20the%20Working%20Directory.
 
 HTML FUNDAMENTALS
@@ -25,3 +32,85 @@ c4_jjNJv44lU/edit#slide=id.g5b92269c3aafc8db_64
 
 CSS
  https://docs.google.com/presentation/d/1dFC_jd06dggR-dVd4pPCSV23kWMJDx8EcUTgQVfdoAE
+
+      CSS DISPLAY
+
+https://docs.google.com/presentation/d/1S3mqtqMkv3aD9FZiEKxLjEAxdo_9JgqKP8uyqInJ7sA/edit#slide=id.p
+
+TO LEARN FLEXBOX
+ https://flexboxfroggy.com/
+
+TRANSITION TRANSFORM AND ANIMATION
+https://docs.google.com/presentation/d/1MM2rh-6Jfo9h0nfkG_IRXY7CoJBrVHC6COFlv93DPWE/edit#slide=id.p
+
+RESPONSIVE DESIGN AND TWITTER BOOTSTRAP
+https://docs.google.com/presentation/d/1aVHEYyVkhjpct_KDEXjFnL5hl3hOI0FtteG8xUl0ZgA/edit#slide=id.p
+
+DEPLOYING STATIC WEBSITE
+https://docs.google.com/presentation/d/1zowLfl-ubW9iRP72c2v9yFIsU_mTVLpiI5g_IlzM1_E/edit#slide=id.p
+
+                               JAVASCRIPT FUNDAMENTALS
+https://docs.google.com/presentation/d/1QGm_Pr3hxXH7BwO6y77sR3fWB0s-yriQFXV0VCv6Mdo/edit#slide=id.p
+
+ARRAYS and ITERATION
+https://docs.google.com/presentation/d/1dCofLY8UY7ZXjbiGMrUDLcj4PtzOX9_iKz49qstU7JQ/edit?usp=sharing
+
+OBJECTS AND FUNCTIONS
+https://docs.google.com/presentation/d/1-rD5V1V0AEV9r4nQ7waFUXZsXkOWQndrkJvv5siRHQU/edit#slide=id.p
+
+DEBUGGING JAVASCRIPT
+https://docs.google.com/presentation/d/1T_SNjbeuFE8Yg32akk32Txy0hN2djOKkInd9JxPFG-E/edit#slide=id.p
+
+                 NESTED DATA STRUCTURES
+https://docs.google.com/presentation/d/1ywNyJnsKALP8xzNDls4TL6UgXQyXI44ZF-hjcsBKqzc/edit#slide=id.p
+
+               High Order Functions, Timers, and Closure
+   https://docs.google.com/presentation/d/15Ia7bV70-fMuadpVEC6LjLTix-lx09r2UUP1Bhb5DjY/edit#slide=id.p
+                    
+                            Javascript Iterators
+https://docs.google.com/presentation/d/1PCxPCZtMBJDDGIOvFObIQOEI340_siUoXPs_1rlo7_0/edit#slide=id.p
+
+                           DOM & EVENTS
+https://docs.google.com/presentation/d/1yNpIy4VKTopsQ3clX4Blsw09-Q-efJtabJZVZcS5MnU/edit?usp=sharing
+
+                   YOUTUBE WATCH
+https://www.youtube.com/watch?v=JaMCxVWtW58
+
+                    INTRODUCTION TO TESTING WITH JASMINE
+https://docs.google.com/presentation/d/1grD7aiFo7sEqd1MUSWHD9ftmPrhoP6et3RPCaMwmas0/edit#slide=id.p
+
+              INTRODUCTION TO THE KEYWORD "THIS"
+        https://docs.google.com/presentation/d/1Bwu0XXnnM5lGMzpLLSE7gMX_SW3ys98TJ7iR_dZZGVA/mobilepresent?slide=id.p
+
+      ES2015
+https://docs.google.com/presentation/d/167wsvj_y_BPBh06XERBBoBhyv27c4nkekHk-3V8L2x4/edit#slide=id.p
+
+     OBJECT ORIENTED PROGRAMMING
+https://docs.google.com/presentation/d/1NEveoD6Za42CZzaPe2wtnM6SEjSWnhW0dJxZYfZj07g/edit#slide=id.p
+         
+      OBJECT ORIENTED PROGRAMMING
+https://docs.google.com/presentation/d/1NEveoD6Za42CZzaPe2wtnM6SEjSWnhW0dJxZYfZj07g/edit#slide=id.p
+
+   INTRODUCTION TO JQUERY
+https://docs.google.com/presentation/d/1R3P5gyPgJFP7O6vXBb9JwPNZxTcA7M578IiT93suFuQ/mobilepresent?slide=id.p
+
+         HOW THE WEB WORKS
+https://docs.google.com/presentation/d/1Em8-62tHj-mKmPBzmUVix5ty7Ir-X_sXu6TS5kOiW6M/edit#slide=id.p
+
+             INTRODUCTION TO CANVAS
+https://docs.google.com/presentation/d/1TMFxcmZRjY6_eSSA3EtJi_P_JupkatjgT5-qb2ftvys/edit#slide=id.p
+
+       MANAGIN ASYNCHRONOUS CODE
+ https://docs.google.com/presentation/d/1t5kEStvIgM8vJKTZPx5l5ZH-Rjg5i7T51jAskkPIQss/edit#slide=id.p
+
+        INTRODUCTION TO REGULAR EXPRESSION
+https://docs.google.com/presentation/d/1nsAAs6p4CL5qO55bDR5GvMTgWwA9elK14S7Oyj3D2Jo/edit#slide=id.p
+
+         INTRODUCTION TO FUNCTIONAL PROGRAMMING
+      https://docs.google.com/presentation/d/1fGCzqFVUsHF5yI-222JmIay8CJnEWrEX2_0GlnpdeWQ/edit#slide=id.p
+             
+                    LINKED LIST
+              https://docs.google.com/presentation/d/1RcasMOZ-LiCiagBeGiLDExgks8UNoht1v2ImQx111og/edit#slide=id.p
+
+                 SEARCH AND AGORITHM
+https://docs.google.com/presentation/d/1UinFBMlmr-iIYuVyw-UD0ovqr-OpzyuNR0jJRYMNFz8/edit#slide=id.p
